@@ -17,7 +17,7 @@
 
 <p>I am a computer scientist who is infinitely curious, committed, consistent, and always looking for ways to solve problems with technology. I am a full stack developer with my major stack being Python (Django) and javascript (Vue.js). My main area of expertise is backend but I'm also interested in other areas of computer science; DevOps, Data Science, Machine Learning and Artificial Intelligence.</p>
 
-<img src="https://komarev.com/ghpvc/?username=awath-abdat&style=flat&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=awath-abdat&style=flat&color=blue" alt="Profile Views"/>
 
 ---
 
@@ -65,6 +65,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="40" height="40"/>
 </div>
 
 ---

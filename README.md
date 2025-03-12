@@ -15,7 +15,7 @@
 ---
 <h3>About me?</h3>
 
-<p>I am a computer scientist who is infinitely curious, committed, consistent, and always looking for ways to solve problems with technology. I am a full stack developer with my major stack being Python (Django) and javascript (Vue.js). My main area of expertise is backend but I'm also interested in other areas of computer science; DevOps, Data Science, Machine Learning and Artificial Intelligence.</p>
+<p>I am a software engineer who is always curious, committed, consistent, and always looking for ways to solve problems with technology. I am a full stack developer with my major stack being Python (Django) and javascript (ReactJS and Vue.js). My main area of expertise is backend but I'm also interested in other areas of computer science and engineering; DevOps, Data Science, Machine Learning and Artificial Intelligence.</p>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=awath-abdat&style=flat&color=blue" alt="Profile Views"/> -->
 

@@ -5,7 +5,7 @@
     <a href="https://www.awath.dev/">
       <img src="https://img.shields.io/badge/Website-red?style=flat&logo=microsoftedge&logoColor=white" alt="Website Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/awath-abdat-14614b186/">
+    <a href="https://www.linkedin.com/in/awath-abdat/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>

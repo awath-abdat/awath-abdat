@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/s6zVmss/removal-ai-8e7db3f1-9271-425e-bf79-63c1d57b5c48-1146867-1-1.png" width="200" style="padding-bottom:0; margin-bottom: 0;"/>
+  <img src="https://awath.dev/curious-three-robots.png" width="200" style="padding-bottom:0; margin-bottom: 0;"/>
 
   <div id="badges">
     <a href="https://www.awath.dev/">
